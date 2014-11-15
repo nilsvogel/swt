@@ -1,4 +1,0 @@
-swt
-===
-
-Softwaretechnik
